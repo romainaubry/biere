@@ -1,0 +1,66 @@
+. Site vitrine
+  - Présentation du magasin
+  - Présentation des produits
+
+. Gérer mes produit (CRUD)
+
+. Vendre les produits
+
+1 - Ma société :
+
+  Raison sociale : WebCroco
+  Mission : Prestation Web, création de sites internet
+  Offres, produits, services : Sites internet
+  Clients types : Petites et moyennes entreprises
+
+
+2 - Type de projet
+
+  Site vitrine
+  Site institutionnel
+  Site e-commerce
+  Intranet
+  Blog d'entreprise
+
+
+3 - Les prestations
+
+  Conception du site (arborescence, ergonomie, charte graphique)
+  Conception et production des contenus (texte, photos, vidéos)
+  Réalisation technique du site (dev du site et intégration des contenus)
+  Hébergement du site et gestion du nom de domaine
+  Maintenance du serveur (hébergement)
+  Maintenance du site lui-même (patch sécurité, MàJ)
+  Accompagnement SEO et référencement
+  Formation de vos équipes à la prise en main du site
+
+
+4 - Les fonctionnalités du futur site
+
+  Fil d’Ariane
+  Intégration de vidéos hébergées sur Youtube, Dailymotion ou Viméo
+  Boutons de partage sur Twitter, Facebook ou autre réseaux sociaux
+  Liens vers les média sociaux de votre entreprise
+  Formulaire de contact
+  Moteur de recherche
+  Plan d’accès simple ou interactif
+  Flux RSS
+  Boutique en ligne
+  Gestion du multi-lingue
+  Galerie Photo
+  Espace presse
+  Module de newsletter
+  Forum
+  Espace recrutement
+  Création de compte
+
+
+5 - Les attentes techniques
+
+  CMS précis ?
+  Responsive ?
+  Qui gère hébergement et domaine ?
+  Contraintes de sécurité particulières ?
+
+
+6 - Maquette du site
